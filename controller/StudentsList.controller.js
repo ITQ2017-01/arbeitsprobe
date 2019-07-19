@@ -4,4 +4,5 @@ sap.ui.define([
 	"use strict";
 	return Controller.extend("hts.it.fiae.hts.controller.StudentsList", {
 	});
+
 });
