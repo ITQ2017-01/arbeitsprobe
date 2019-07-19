@@ -40,7 +40,11 @@
 				"settings": {
 					"bundleName": "hts.it.fiae.itq.i18n.i18n"
 				}
-			}
+            },
+            "students": {
+                "type": "sap.ui.model.json.JSONModel",
+                "uri": "Students.json"
+            }
 		}
 	}
 }
