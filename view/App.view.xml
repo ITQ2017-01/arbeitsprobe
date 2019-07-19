@@ -18,6 +18,10 @@
                         <Text	text="Hello {/recipient/name}"/>
                         </content>
                     </Panel>
+                    <Panel headerText="{i18n>panelTitel2}">
+                        <Input width="60%" value="{/calc/number1}"/>
+                        <Input width="60%" value="{/calc/number2}"/>
+                    </Panel>
 					<content>
 						<mvc:XMLView viewName="hts.it.fiae.itq.view.StudentsList"/>
 					</content>
