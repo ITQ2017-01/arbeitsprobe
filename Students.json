@@ -1,0 +1,39 @@
+{
+  "Schueler": [
+	{
+	  "SchülerName": "Petersen",
+	  "SchülerVorname": "Peter",
+	  "Klasse": "ITQ11",
+	  "Abteilung": "IT",
+	  "Alter": 19
+	},
+	{
+	  "SchülerName": "Jansen",
+	  "SchülerVorname": "Jan",
+	  "Klasse": "IFK12",
+	  "Abteilung": "IT",
+	  "Alter": 26
+	},
+	{
+	  "SchülerName": "Helgason",
+	  "SchülerVorname": "Helga",
+	  "Klasse": "BK10",
+	  "Abteilung": "BWL",
+	  "Alter": 20
+	},
+	{
+	  "SchülerName": "Nana",
+	  "SchülerVorname": "Nina",
+	  "Klasse": "KP10",
+	  "Abteilung": "Kindepflege",
+	  "Alter": 19
+	},
+	{
+	  "SchülerName": "Theke",
+	  "SchülerVorname": "Anna",
+	  "Klasse": "BK12",
+	  "Abteilung": "BWL",
+	  "Alter": 23
+	}
+  ]
+}
