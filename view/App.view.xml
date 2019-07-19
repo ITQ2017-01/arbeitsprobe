@@ -19,7 +19,7 @@
                         </content>
                     </Panel>
 					<content>
-						<mvc:XMLView viewName="hts.it.fiae.itq.view.StudentPanel"/>
+						<mvc:XMLView viewName="hts.it.fiae.itq.view.StudentsList"/>
 					</content>
 				</Page>
 			</pages>
