@@ -3,7 +3,7 @@
 	xmlns="sap.m"
 	xmlns:mvc="sap.ui.core.mvc"
 	displayBlock="true">
-	<Shell backgroundColor="#DDD">
+	<Shell backgroundColor="#DDD" logo="logo.png">
 		<App>
 			<pages>
 				<Page title="{i18n>pageTitel}">
